@@ -1,15 +1,11 @@
-#
-# This file contains configuration flags to customize your site
-#
-
 # Name of your site (displayed in the header)
-name: Your Name
+name: Tu Hu Data Lab
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: The Data Lab of Tu Hu
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars1.githubusercontent.com/u/45359616?s=460&v=4
 
 #
 # Flags below are optional
@@ -17,20 +13,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github: barryclark/jekyll-now
-  instagram:
+  email:tu@nexs.ku.dk
+  github: https://github.com/tuhulab
   linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
